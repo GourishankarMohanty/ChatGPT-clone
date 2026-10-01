@@ -1,0 +1,6 @@
+{
+  "name": "NexusAI - Conversational Intelligence Platform",
+  "description": "ChatGPT-like conversational web workspace supporting NVIDIA NIM API models and Gemini with streaming, reasoning traces, and rich chat management.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
